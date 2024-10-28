@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+h1 {
+    color: crimson;font-size: 30px;
+    font-family: "Playfair Display", serif;
+    font-size: 2em;
+    font-weight: 2em;
+}
+h2 {
+    color: crimson;font-size: 25;
+    font-family: "Playfair Display", serif;
+    font-size: 1,5em;
+    font-weight: 1,5em;
+}
+h3 {
+    color: crimson;font-size: 20px;
+    font-family: "Playfair Display", serif;
+    font-size: 1em;
+    font-weight: 1em;
+}
+p {
+    color: crimson;font-size: 16px;
+    font-family: "Playfair Display", serif;
+    font-size: 1em;
+    font-weight: 1em;
+}
+
+body {background-color: burlywood;}
+
+.columnas{
+
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+ justify-content:center;
+ padding: 30px;
+ margin: 30px;
+ border: 30px;
+ height: 30px;
+
+}
+
+.pepito{
+
+ border-style: solid;
+
+}
